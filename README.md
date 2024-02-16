@@ -1,3 +1,5 @@
+[Main page](https://github.com/Nikita-devel) | [Python Web Page](https://github.com/Nikita-devel/Python_Web)
+
 # FastAPI Contacts API
 
 ## Overview
